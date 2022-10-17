@@ -36,4 +36,5 @@ public class FruitsBasket {
         System.out.println("Number of Oranges: " + numOranges);
         System.out.println("Number of Other Fruit: " + numOtherFruit);
     }
+
 }
